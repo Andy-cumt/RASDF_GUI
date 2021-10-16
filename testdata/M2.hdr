@@ -1,0 +1,21 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 20.000000, y resize factor: 20.000000.
+  Method: 1st degree RST w/ nearest neighbor [Sat Jul 17 15:19:20 2021]}
+samples = 800
+lines   = 800
+bands   = 6
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Resize (Resize (Band 1:[Memory1]):[Memory2]), 
+ Resize (Resize (Band 2:[Memory1]):[Memory2]), 
+ Resize (Resize (Band 3:[Memory1]):[Memory2]), 
+ Resize (Resize (Band 4:[Memory1]):[Memory2]), 
+ Resize (Resize (Band 5:[Memory1]):[Memory2]), 
+ Resize (Resize (Band 6:[Memory1]):[Memory2])}
