@@ -7,6 +7,6 @@ The authors greatly thank the great work of FSDAF, SFSDAF and OBSTFM from Xiaoli
 
 Please see the Readme.docx for instructions.
 
-Update history
+Update history：
 10/16/2021 First version of RASDF GUI developed by MATLAB 2020b GUI
 01/10/2022 Modify and redesign the interface on the MATLAB 2020b APP designer for ease of use
