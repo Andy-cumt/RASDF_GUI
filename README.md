@@ -14,3 +14,5 @@ Update history：
 10/16/2021 First version of RASDF GUI developed by MATLAB 2020b GUI
 
 01/10/2022 Modify and redesign the interface on the MATLAB 2020b APP designer for ease of use
+
+01/18/2022 Add TTIF format support and correct a bug in change detection
