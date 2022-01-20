@@ -16,3 +16,5 @@ Update history：
 01/10/2022 Modify and redesign the interface on the MATLAB 2020b APP designer for ease of use
 
 01/18/2022 Add TTIF format support and correct a bug in change detection
+
+01/20/2022 Correct a bug caused by too few candidate pixels for unmixing (If the number of pixels available for unmixing is not much larger than the number of classifications, the unmixing step is not performed).
