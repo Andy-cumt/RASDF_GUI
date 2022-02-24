@@ -1,7 +1,7 @@
 # RASDF_GUI
 The program of a reliable and adaptive spatiotemporal data fusion method (RASDF)
 
-This program according to the paper Shi W, Guo D, Zhang H. A reliable and adaptive spatiotemporal data fusion method for blending multi-spatiotemporal-resolution satellite images[J]. Remote Sensing of Environment, 2022,268:112770. https://doi.org/10.1016/j.rse.2021.112770.
+This program according to the paper Shi W, Guo D*, Zhang H. A reliable and adaptive spatiotemporal data fusion method for blending multi-spatiotemporal-resolution satellite images[J]. Remote Sensing of Environment, 2022,268:112770. https://doi.org/10.1016/j.rse.2021.112770.
 
 The authors greatly thank the great work of FSDAF, SFSDAF and OBSTFM from Xiaolin Zhu, Eileen H. Helmer, Feng Gao, Desheng Liu, Jin Chen, Michael A. Lefsky, Xiaodong Li, Giles M. Foody, Doreen S. Boyd, Yong Ge, Yihang Zhang, Yun Du, Feng Ling and Yue Sun.
 
