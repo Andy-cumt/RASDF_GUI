@@ -54,7 +54,7 @@ Td=CRT2-CRT1;
 for b=1:bands
     mean_Fd=mean2(abs(Fd(:,:,b)));
     mean_Td=mean2(abs(Td(:,:,b)));
-    std_Fd=std2(Fd(:,:,b));
+    std_Fd=std2(abs(Fd(:,:,b)));
     
     Q_m(b)=2*mean_Td./mean_Fd;
     Q_m(Q_m<2)=2;
