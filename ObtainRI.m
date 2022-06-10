@@ -30,7 +30,7 @@ nearest_FRT1C = (imresize(FRT1C,Factor,'nearest'));
 
 %%%Linear regression
 RI=zeros(xH,yH,bands);
-CRT1CN=zeros(xL,yL,bands);
+CRT1CN=zeros(xH,yH,bands);
 X=reshape(CRT1C,xL*yL,bands);
 Y=reshape(FRT1C,xL*yL,bands);
 
